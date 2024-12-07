@@ -1,0 +1,932 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+new.az-ex.shop
+</name>
+</assembly>
+<members>
+<member name="T:new.az_ex.shop.My.MyWebExtension">
+ <summary>
+ Модуль, используемый для определения свойств, доступных в My Namespace для веб-проектов.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:new.az_ex.shop.My.MyWebExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:new.az_ex.shop.My.MyWebExtension.User">
+ <summary>
+ Возвращает сведения о текущем веб-пользователе.
+ </summary>
+</member>
+<member name="P:new.az_ex.shop.My.MyWebExtension.Request">
+ <summary>
+ Возвращает объект Request.
+ </summary>
+</member>
+<member name="P:new.az_ex.shop.My.MyWebExtension.Response">
+ <summary>
+ Возвращает объект Response.
+ </summary>
+</member>
+<member name="P:new.az_ex.shop.My.MyWebExtension.Log">
+ <summary>
+ Возвращает объект журнала ASP.
+ </summary>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._head">
+<summary>
+head элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._ScriptManager1">
+<summary>
+ScriptManager1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Avatar1">
+<summary>
+Avatar1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Name1">
+<summary>
+Name1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._LinkButton1">
+<summary>
+LinkButton1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Menu">
+<summary>
+Menu элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Avatar">
+<summary>
+Avatar элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Name">
+<summary>
+Name элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._LinkButton2">
+<summary>
+LinkButton2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Cabinet._Content">
+<summary>
+Content элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop._Default._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop._Default._Label1">
+<summary>
+Label1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._ScriptManager1">
+<summary>
+ScriptManager1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._UpdatePanel2">
+<summary>
+UpdatePanel2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Fenn">
+<summary>
+Fenn элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Max">
+<summary>
+Max элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._S_min">
+<summary>
+S_min элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._S_max">
+<summary>
+S_max элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._DropDownList2">
+<summary>
+DropDownList2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._DropDownList1">
+<summary>
+DropDownList1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Button1">
+<summary>
+Button1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Avatar">
+<summary>
+Avatar элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Name">
+<summary>
+Name элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Image1">
+<summary>
+Image1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Label1">
+<summary>
+Label1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._say">
+<summary>
+say элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._ListBox1">
+<summary>
+ListBox1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._panel2">
+<summary>
+panel2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Button2">
+<summary>
+Button2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Avatar1">
+<summary>
+Avatar1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._Name1">
+<summary>
+Name1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.exam._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._ScriptManager1">
+<summary>
+ScriptManager1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._UpdatePanel1">
+<summary>
+UpdatePanel1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._First">
+<summary>
+First элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._MSG">
+<summary>
+MSG элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Email">
+<summary>
+Email элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Second">
+<summary>
+Second элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Avatar">
+<summary>
+Avatar элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Name1">
+<summary>
+Name1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._MSG1">
+<summary>
+MSG1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Password">
+<summary>
+Password элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Button1">
+<summary>
+Button1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Login._Label1">
+<summary>
+Label1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Tarix">
+<summary>
+Tarix элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Fen">
+<summary>
+Fen элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Araliq">
+<summary>
+Araliq элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Trues">
+<summary>
+Trues элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Wrong">
+<summary>
+Wrong элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Unans">
+<summary>
+Unans элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Literal1">
+<summary>
+Literal1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.Result._Label1">
+<summary>
+Label1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._GTX">
+<summary>
+GTX элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._Avatar">
+<summary>
+Avatar элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._Name">
+<summary>
+Name элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._About">
+<summary>
+About элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._Job">
+<summary>
+Job элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._Email">
+<summary>
+Email элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm1._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm2._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm3._Location">
+<summary>
+Location элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm3._entry">
+<summary>
+entry элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm4._Cont">
+<summary>
+Cont элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm4._PlaceHolder2">
+<summary>
+PlaceHolder2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm4._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm4._Empty">
+<summary>
+Empty элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm4._LinkButton1">
+<summary>
+LinkButton1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._ScriptManager1">
+<summary>
+ScriptManager1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._List2">
+<summary>
+List2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Avatar">
+<summary>
+Avatar элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Name">
+<summary>
+Name элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._UpdatePanel3">
+<summary>
+UpdatePanel3 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._panel1">
+<summary>
+panel1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._unans">
+<summary>
+unans элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Subject">
+<summary>
+Subject элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Max">
+<summary>
+Max элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._S_min">
+<summary>
+S_min элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._S_max">
+<summary>
+S_max элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._UpdatePanel1">
+<summary>
+UpdatePanel1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Button1">
+<summary>
+Button1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Button2">
+<summary>
+Button2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._List1">
+<summary>
+List1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Avatar1">
+<summary>
+Avatar1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._Name1">
+<summary>
+Name1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._UpdatePanel2">
+<summary>
+UpdatePanel2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.read._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm5._UpdatePanel1">
+<summary>
+UpdatePanel1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm5._PlaceHolder2">
+<summary>
+PlaceHolder2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm5._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm6._PlaceHolder1">
+<summary>
+PlaceHolder1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm6._Pro">
+<summary>
+Pro элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.WebForm6._Enterprise">
+<summary>
+Enterprise элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.TEST._Form1">
+<summary>
+Form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:new.az_ex.shop.TEST._Label1">
+<summary>
+Label1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+</members>
+</doc>
